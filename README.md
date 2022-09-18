@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nazarii
 ===============================================================================================================================
 
-Java Software Developer
+Java Software Developer/Project Manager
 -----------------------
 
 My name is Nazarii and I'm a Project Manager in Ukraine. I really enjoy working for tech company and enjoy backend development thus have been learning Java language and frameworks like Spring to broaden my skill set in this area. I have also picked up an interest in frontend development and iOS development in particular, and am learning it during my free time.
