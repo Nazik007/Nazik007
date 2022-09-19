@@ -8,9 +8,9 @@ My name is Nazarii and I'm a Project Manager in Ukraine. I really enjoy working 
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [natesoviak@gmail.com](mailto:natesoviak@gmail.com)
-* 🧠  I'm learning Spring, Hibernate
+* 🧠  I'm learning Java, Spring, Hibernate
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm secretly a batman.... Do't tell anyone, please!
+* ⚡  I'm secretly a batman.... Don't tell anyone, please!
 
 ### Skills
 
